@@ -9,6 +9,6 @@ deploy:
   provider: heroku
   api_key:
     secure: GRpNdvaA0h6PJ1YQ2vjWUiXsVfD3PALpOzxdNx4jUCGDH0MAa6jlB+8tFyTZoafX1ktAMf9NbOrQaoCQ9V91p+lsITA3mkVGg2tIq+1XPPpBdLr19vu+EtkiKzpScvCydYOkuZv3+xJb0WzWcdrS3+3Zd6Dh7n8MlSvUqQxMJv1m1UKhWYzJnIvWtGKcK/QHx99QpZeYCmqk5yr78UbAQ2b6X+VgQ0Zqb4RFhAxe0ktEHVOk7fj0bTMvNFEeS1JTfcTiOvXeWKW097H1sYypub3c1CNq1a3UXE0hJTZqYzlZ+g6Tj2n0JENnwac25HlYuIAFz179s6toiKqQE+yMry/kXdQLYwSMlTr6VbuqdsAby17S/OR5himxMjsp1IEhe9u+NhK5heYkSNykIfWxRT2KmVgxKw8qq1Z7gWEBONbIPRGxSSuyKOw4auSEDjPTPmkDRHli2Y//5KXhxbnZwci20boFb/Um+L+62xRFqKuy+HiKakjIGpTe8II6PC8xuhU9UeGbFFV6bwD7wMejNgqdh6qKoQCFeynVLu4ZP24x0R98QVkdWLB+6dlBan3msF9PgGqqP/hAikTwWXn1md5L8u22on/gwTNXsGBouWbeN1sVdPmEC2zMl+S8lMR56p6HmTSMpOFSlguZ3jEohmOrV7Sh6rjRVkEqJVrFXsE=
-  app: warm-savannah-8380
+  app: mix-words
   on:
     repo: jindev/MixWords
