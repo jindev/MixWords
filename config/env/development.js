@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-	db: 'mongodb://heroku_0wsj0rd5:njh06qj38te4laf47vkdab3msm@ds047642.mongolab.com:47642/heroku_0wsj0rd5',
+	db: 'mongodb://heroku_9gvc2f0t:3hrorcsnd5b661unmms4m2dmq4@ds043972.mongolab.com:43972/heroku_9gvc2f0t',
 	//db: 'mongodb://localhost/mixwords-dev',
 	app: {
 		title: 'mixwords - Development Environment'

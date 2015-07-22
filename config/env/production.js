@@ -1,7 +1,8 @@
 'use strict';
 
 module.exports = {
-	db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://' + (process.env.DB_1_PORT_27017_TCP_ADDR || 'localhost') + '/mixwords',
+	//db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://' + (process.env.DB_1_PORT_27017_TCP_ADDR || 'localhost') + '/mixwords',
+	db: 'mongodb://heroku_9gvc2f0t:3hrorcsnd5b661unmms4m2dmq4@ds043972.mongolab.com:43972/heroku_9gvc2f0t',
 	assets: {
 		lib: {
 			css: [
